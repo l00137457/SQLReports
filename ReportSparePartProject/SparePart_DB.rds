@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SparePart_DB">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=192.168.43.180;Initial Catalog="Spare Part System"</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>e0468ccc-4495-4e8c-b572-bea680080a50</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportSparePartProject", "ReportSparePartProject.rptproj", "{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Debug|Default.ActiveCfg = Debug
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Debug|Default.Build.0 = Debug
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Debug|Default.Deploy.0 = Debug
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.DebugLocal|Default.Build.0 = DebugLocal
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Release|Default.ActiveCfg = Release
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Release|Default.Build.0 = Release
+		{E64B146D-2AF2-4018-ADC5-EE4A4D9B3009}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
